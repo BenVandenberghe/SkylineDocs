@@ -24,8 +24,8 @@ To be able to work with DataMiner, you must have at least one DataMiner
 Agent and a DataMiner client.
 
 | Concept                              | Description                          |
-| DataMiner Agent or DMA               | A piece of hardware running the      |
-|                                      | DataMiner software.                  |
+| DataMiner Agent or DMA               | A piece of compute hardware running  |
+|                                      | the DataMiner software.              |
 | DataMiner client                     | An entity communicating with the     |
 |                                      | Agent. The term is mostly used to    |
 |                                      | denote a client application that     |
